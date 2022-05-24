@@ -1,0 +1,16 @@
+D:\Work\CSharpSpace\TextReplace\TextReplace\TextReplace\bin\Debug\TextReplace.exe
+D:\Work\CSharpSpace\TextReplace\TextReplace\TextReplace\bin\Debug\TextReplace.pdb
+D:\Work\CSharpSpace\TextReplace\TextReplace\TextReplace\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\CSharpSpace\TextReplace\TextReplace\TextReplace\obj\Debug\TextReplace.MainForm.resources
+D:\Work\CSharpSpace\TextReplace\TextReplace\TextReplace\obj\Debug\TextReplace.Properties.Resources.resources
+D:\Work\CSharpSpace\TextReplace\TextReplace\TextReplace\obj\Debug\TextReplace.csproj.GenerateResource.Cache
+D:\Work\CSharpSpace\TextReplace\TextReplace\TextReplace\obj\Debug\TextReplace.exe
+D:\Work\CSharpSpace\TextReplace\TextReplace\TextReplace\obj\Debug\TextReplace.pdb
+E:\WORK\2014\TextReplace\TextReplace\TextReplace\obj\Debug\TextReplace.exe
+E:\WORK\2014\TextReplace\TextReplace\TextReplace\obj\Debug\TextReplace.pdb
+E:\WORK\2014\TextReplace\TextReplace\TextReplace\bin\Debug\TextReplace.exe
+E:\WORK\2014\TextReplace\TextReplace\TextReplace\bin\Debug\TextReplace.pdb
+E:\WORK\2014\TextReplace\TextReplace\TextReplace\obj\Debug\ResolveAssemblyReference.cache
+E:\WORK\2014\TextReplace\TextReplace\TextReplace\obj\Debug\TextReplace.MainForm.resources
+E:\WORK\2014\TextReplace\TextReplace\TextReplace\obj\Debug\TextReplace.Properties.Resources.resources
+E:\WORK\2014\TextReplace\TextReplace\TextReplace\obj\Debug\TextReplace.csproj.GenerateResource.Cache
